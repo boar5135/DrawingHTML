@@ -1,1 +1,23 @@
-
+h1 {
+    text-align:center;
+    color: #3333ff;
+    font-size:60
+}
+html {
+    background-color: #ffe6e6;
+}
+th {
+    color:#cc0044;
+    font-size: 50px
+}
+table, th, td {
+    border: 5px solid #3333ff;
+}
+p {
+    width: 500px;
+    margin-left:650px;
+    font-size:25
+}
+td {
+    font-size: 20px;
+}
